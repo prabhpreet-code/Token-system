@@ -1,0 +1,22 @@
+#recieverAddress {
+  width: 90%;
+  height: 30px;
+}
+
+#sendAmount {
+  height: 30px;
+}
+
+.buttonSubmit {
+  height: 30px;
+  width: 60px;
+  background-color: #f4c6d5;
+  border: none;
+  box-shadow: 1px 1px 3px 1px #4e4d4d;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.buttonSubmit:hover {
+  background-color: #fcabc6;
+}
